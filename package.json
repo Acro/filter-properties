@@ -1,0 +1,24 @@
+{
+  "name": "filter-properties",
+  "version": "1.0.0",
+  "description": "Filter object properties using a whitelist",
+  "main": "lib/filter.js",
+  "scripts": {
+    "test": "node test/filter.js"
+  },
+  "author": "Ondrej Machek <acrocz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": [
+    "object filtering",
+    "filter",
+    "object",
+    "object properties",
+    "object keys",
+    "filter keys"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Acro/filter-properties"
+  }
+}
